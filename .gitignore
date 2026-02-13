@@ -41,3 +41,7 @@ coverage/
 # Misc
 .cache/
 .turbo/
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
